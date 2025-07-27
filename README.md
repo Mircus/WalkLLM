@@ -1,4 +1,4 @@
-# ♟ WalkGPT
+# ♟ WalkLLM
 
 > Bridging Knowledge Graphs and Large Language Models through stochastic semantic exploration.
 
@@ -6,9 +6,9 @@
 
 ---
 
-## 🤖 What is WalkGPT?
+## 🤖 What is WalkLLM?
 
-**WalkGPT** is an experimental framework that connects **Knowledge Graphs (KGs)** and **LLMs** by using **random walks** to drive context-aware prompting and semantic exploration.
+**WalkLLM** is an experimental framework that connects **Knowledge Graphs (KGs)** and **LLMs** by using **random walks** to drive context-aware prompting and semantic exploration.
 
 Each step in the walk guides the language model to generate or query new information, effectively simulating a conversational traversal of a structured space.
 
