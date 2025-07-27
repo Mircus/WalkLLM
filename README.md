@@ -29,7 +29,7 @@ Each step in the walk guides the language model to generate or query new informa
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Mircus/WalkGPT.git
+git clone https://github.com/Mircus/WalkLLM.git
 cd WalkGPT
 ```
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ### 3. Run a walk + prompt loop
 
 ```bash
-python walkgpt.py --config config.json
+python walkllm.py --config config.json
 ```
 
 ---
@@ -79,6 +79,6 @@ MIT License — see `LICENSE` file.
 This work explores the intersection between **neuro-symbolic AI**, **semantic traversal**, and **generative reasoning**.
 It's part of the **Holomathics** project.
 
-If you use WalkGPT in your research or creative work, please cite or link the Medium article.
+If you use WalkLLM in your research or creative work, please cite or link the Medium article.
 
 > *Built to walk ideas into words.*
